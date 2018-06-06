@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLoader2", "AutoLoader2\AutoLoader2.csproj", "{FAA23C99-9B56-400C-B1AC-9D95EF65D207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{1450A2C3-FBBD-47C8-99E0-54C0B71E6E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesAutoLoaderLib", "MesAutoLoaderLib\MesAutoLoaderLib.csproj", "{6F75A62F-4F5E-4232-AADD-E1B70BD8CA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLib", "DatabaseLib\DatabaseLib.csproj", "{F779A3B8-BA27-4155-88C8-5F6CB61C0B27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA23C99-9B56-400C-B1AC-9D95EF65D207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA23C99-9B56-400C-B1AC-9D95EF65D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA23C99-9B56-400C-B1AC-9D95EF65D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA23C99-9B56-400C-B1AC-9D95EF65D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1450A2C3-FBBD-47C8-99E0-54C0B71E6E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1450A2C3-FBBD-47C8-99E0-54C0B71E6E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1450A2C3-FBBD-47C8-99E0-54C0B71E6E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1450A2C3-FBBD-47C8-99E0-54C0B71E6E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F75A62F-4F5E-4232-AADD-E1B70BD8CA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F75A62F-4F5E-4232-AADD-E1B70BD8CA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F75A62F-4F5E-4232-AADD-E1B70BD8CA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F75A62F-4F5E-4232-AADD-E1B70BD8CA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F779A3B8-BA27-4155-88C8-5F6CB61C0B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F779A3B8-BA27-4155-88C8-5F6CB61C0B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F779A3B8-BA27-4155-88C8-5F6CB61C0B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F779A3B8-BA27-4155-88C8-5F6CB61C0B27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
