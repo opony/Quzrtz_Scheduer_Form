@@ -1,0 +1,52 @@
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\AutoLoader2.exe.config
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\NLog.config
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\AutoLoader2.exe
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\AutoLoader2.pdb
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.Core.dll
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.dll
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\NLog.dll
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Quartz.dll
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.pdb
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.xml
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.Core.pdb
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.Core.xml
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\NLog.xml
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Quartz.pdb
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\bin\Debug\Quartz.xml
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.csprojResolveAssemblyReference.cache
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Form1.resources
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Properties.Resources.resources
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.csproj.GenerateResource.Cache
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.exe
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.pdb
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Forms.ApConfigForm.resources
+C:\Users\PONYLIU\documents\visual studio 2015\Projects\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Forms.AddJobForm.resources
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\AutoLoader2.exe.config
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.exe
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.pdb
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\NLog.config
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\AutoLoader2.exe
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\AutoLoader2.pdb
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.Core.dll
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.dll
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\NLog.dll
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Quartz.dll
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.pdb
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.xml
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.Core.pdb
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Common.Logging.Core.xml
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\NLog.xml
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Quartz.pdb
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\Quartz.xml
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.csprojResolveAssemblyReference.cache
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Form1.resources
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Forms.AddJobForm.resources
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Forms.ApConfigForm.resources
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.Properties.Resources.resources
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\obj\Debug\AutoLoader2.csproj.GenerateResource.Cache
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\DatabaseLib.dll
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\MesAutoLoaderLib.dll
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\DatabaseLib.pdb
+D:\Workspace\DotNet\AutoLoader2\AutoLoader2\bin\Debug\MesAutoLoaderLib.pdb
