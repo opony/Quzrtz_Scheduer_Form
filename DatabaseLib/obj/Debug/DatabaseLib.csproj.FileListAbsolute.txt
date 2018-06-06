@@ -1,0 +1,7 @@
+D:\Workspace\DotNet\AutoLoader2\DatabaseLib\bin\Debug\DatabaseLib.dll.config
+D:\Workspace\DotNet\AutoLoader2\DatabaseLib\bin\Debug\DatabaseLib.dll
+D:\Workspace\DotNet\AutoLoader2\DatabaseLib\bin\Debug\DatabaseLib.pdb
+D:\Workspace\DotNet\AutoLoader2\DatabaseLib\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Workspace\DotNet\AutoLoader2\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+D:\Workspace\DotNet\AutoLoader2\DatabaseLib\obj\Debug\DatabaseLib.dll
+D:\Workspace\DotNet\AutoLoader2\DatabaseLib\obj\Debug\DatabaseLib.pdb
